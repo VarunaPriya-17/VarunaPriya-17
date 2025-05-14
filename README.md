@@ -1,8 +1,8 @@
-Hello, #I'm VARUNA PRIYA S
+✨Hello, **I'm VARUNA PRIYA S**🌐 
 
    🚀 A full-time coder, part-time creator, and lifetime learner!🌈
    
-   Location: Erode | 📧 Email: varunadivid@gmail.com
+   Location: *Erode* | 📧 Email: varunadivid@gmail.com
 
 ### 🚀 About Me
 
@@ -27,8 +27,10 @@ I'm all in...
 
 ## 📫 Let’s Connect!
 
-I'm always excited to connect with fellow developers, creators, and collaborators!
+*I'm always excited to connect with fellow developers, creators, and collaborators!*
  
 📧 [varunadivid@gmai.com](mailto:varunadivid@gmail.com)  
 💼 [LinkedIn](linkedin.com/in/varuna-priya-s-29336a275)  
 🐦 [Instagram](https://www.instagram.com/_varu_.17?igsh=ajNoamxudTdicjF0)
+
+⭐ **Thanks for stopping by! Don't forget to hit that follow button.**
