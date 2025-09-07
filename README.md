@@ -20,7 +20,7 @@ I'm all in...
 `HTML` | `CSS` | `JavaScript` | `Python` | `Java` | `C`
 
 **Frameworks & Tools:**  
-`React.js` | `Node.js` | `MongoDB` | `PHP` | `Streamlit` | `VS Code` | `Android Studio` | `Canva` | `figma`
+`React.js` | `Node.js` | `MongoDB` | `PHP` | `Streamlit` | `VS Code` | `Android Studio` | `figma`
 
 **Special Interests:**  
 🚗 IoT Projects | 🧠 AI/ML Models  📱 App Development | 🌐 Web Solutions
