@@ -20,10 +20,20 @@ I'm all in...
 `HTML` | `CSS` | `JavaScript` | `Python` | `Java` | `C`
 
 **Frameworks & Tools:**  
-`React.js` | `Node.js` | `MongoDB` | `PHP` | `Streamlit` | `VS Code` | `Android Studio` | `figma`
+`React.js` | `Node.js` | `MongoDB` | `PHP` | `Streamlit` | `VS Code` | `Android Studio` | `Framer` | `figma`
 
 **Special Interests:**  
 🚗 IoT Projects | 🧠 AI/ML Models  📱 App Development | 🌐 Web Solutions
+
+## 💼 Professional Journey
+
+### 🚀 Software Engineer | Madura Solutions
+
+Working as a MERN Stack Developer with expertise in React.js, Node.js, Express.js, and MongoDB.Along with this I'm specialized in Framer and Wordpress. Recently promoted as Team Lead after 6 months for strong technical contributions and leadership skills.
+
+### 🌐 Intern(FSD)| Training Trains Software Technologies
+
+Worked on full stack and automation projects involving scraping tools, live data systems, and client-based PHP applications.
 
 ## 📫 Let’s Connect!
 
