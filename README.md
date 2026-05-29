@@ -43,4 +43,4 @@ Worked on full stack and automation projects involving scraping tools, live data
 💼 [LinkedIn](linkedin.com/in/varuna-priya-s-29336a275)  
 🐦 [Instagram](https://www.instagram.com/_varu_.17?igsh=ajNoamxudTdicjF0)
 
-⭐ **Thanks for stopping by! Don't forget to hit that follow button.**
+⭐ **Thanks for stopping by!**
