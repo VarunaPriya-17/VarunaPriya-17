@@ -23,7 +23,7 @@ I'm all in...
 `React.js` | `Node.js` | `MongoDB` | `PHP` | `Streamlit` | `VS Code` | `Android Studio` | `Framer` | `figma`
 
 **Special Interests:**  
-🚗 IoT Projects | 🧠 AI/ML Models  📱 App Development | 🌐 Web Solutions
+`🚗 IoT Projects` | `🧠 AI/ML Models` | `📱 App Development` | `🌐 Web Solutions`
 
 ## 💼 Professional Journey
 
