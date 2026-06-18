@@ -3,6 +3,7 @@
    🚀 A full-time coder, part-time creator, and lifetime learner!🌈
    
    Location: *Erode* | 📧 Email: varunadivid@gmail.com
+
    Visit my portfolio: *https://varunapriya-17.github.io/varunapriyamyportfolio/*
    
 ### 🚀 About Me
